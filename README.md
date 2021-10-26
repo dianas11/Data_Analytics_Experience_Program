@@ -85,3 +85,58 @@ Edit > Find and Replace.
 
 
 Click [here](https://docs.google.com/spreadsheets/d/1gQpJ_SDuErod1WK96AM3khZVIOUzaiJ4y0Yan1HyGLw/edit?usp=sharing) to view the updated and cleaned datasets for reference.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## TASK 2
+
+With your cleaned Google sheet, we’re going to perform some functions to get additional data on the Udemy courses to consolidate and present this clearly. To do this, we will be using the Right/Left Function, IF function, VLookup and we will create Pivot Tables and Charts.
+
+### Right/Left Function
+
+While there is a published time available for each course, we want to know the date that each course was published without the time stamp. Use the Right or Left function to create a ‘Date’ Column.
+
+### IF Function
+
+We want to know how many courses are free and how many are paid. Use the IF Function to create a column that indicates whether a course is free or paid.
+
+### Pivot Tables and Charts
+
+Create the following Pivot Tables and Charts:
+
+* Total number of subscribers for each subject (Pie Chart)
+* Average number of subscribers for each subject (Bar Chart)
+* Average cost per subject at each level (Bar Chart)
+* Average content duration for each subject (Bar Chart)
+* Average rating per subject for each level (Column Chart)
+* Any other data that you feel will be important to include in your analysis
+
+
+Click [here](https://docs.google.com/spreadsheets/d/1nO0xw0CO7C1NiipHcYVGUL62LNXnxtpymY4hIbdsY_U/edit?usp=sharing) to view the final dataset
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## TASK 3
+
+To Create a tableau dashboard.
+
+Link to the [dashboard](https://public.tableau.com/app/profile/diana.satapathy/viz/UdemyCourseOverview/Dashboard1?publish=yes)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## TASK 4
+
+#### Understanding the Problem
+
+Once you have framed the problem and gathered initial insights from the data, you can ask the following questions as you dig deeper into your analysis.
+
+What do you see happening?
+What are the specific symptoms of the problem?
+What is your hypothesis for the cause of the problem?
+Five 'Whys' approach
+
+Once you have the problem better defined, you can use Root Cause Analysis to get deeper into the ‘why’ of the business problem. We do this with the 5 Why’s approach, by simply asking ‘why’ five times.
+
+While asking Why is easy, what we're interested in is the answer. Each time you answer why the next time gets more difficult as you have to think deeper behind the reasons for this. As you ask why, you may find that you have multiple answers for the same question.
